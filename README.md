@@ -458,7 +458,7 @@ ss -tlnp | grep 4000
 ```
 
 ---
-
+![screencapture-trackos-amarsyll-pro-realtime-2026-03-19-01_20_28](https://github.com/user-attachments/assets/371e560e-b05f-4950-b224-8602530f48ab)
 
 ---
 
